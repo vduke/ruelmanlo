@@ -1,6 +1,6 @@
 # Squarespace Robots Txt
 
-Sitemap: https://www.ruelmanalo.com/sitemap.xml
+Sitemap: http://www.ruelmanalo.com/sitemap.xml
 User-agent: *
 Disallow: /config
 Disallow: /commerce/
